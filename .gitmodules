@@ -127,9 +127,6 @@
 [submodule "libraries/typerep"]
 	path = libraries/typerep
 	url = git://github.com/janestreet/typerep
-[submodule "libraries/tyxml"]
-	path = libraries/tyxml
-	url = https://github.com/ocsigen/tyxml.git
 [submodule "libraries/variantslib"]
 	path = libraries/variantslib
 	url = git://github.com/janestreet/variantslib
