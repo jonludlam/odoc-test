@@ -1,0 +1,135 @@
+[submodule "libraries/base"]
+	path = libraries/base
+	url = https://github.com/janestreet/base
+[submodule "libraries/core"]
+	path = libraries/core
+	url = git://github.com/janestreet/core
+[submodule "libraries/base_quickcheck"]
+	path = libraries/base_quickcheck
+	url = git://github.com/janestreet/base_quickcheck
+[submodule "libraries/bin_prot"]
+	path = libraries/bin_prot
+	url = git://github.com/janestreet/bin_prot
+[submodule "libraries/core_kernel"]
+	path = libraries/core_kernel
+	url = git://github.com/janestreet/core_kernel
+[submodule "libraries/fieldslib"]
+	path = libraries/fieldslib
+	url = git://github.com/janestreet/fieldslib
+[submodule "libraries/jane-street-headers"]
+	path = libraries/jane-street-headers
+	url = git://github.com/janestreet/jane-street-headers
+[submodule "libraries/ocaml-migrate-parsetree"]
+	path = libraries/ocaml-migrate-parsetree
+	url = git://github.com/ocaml-ppx/ocaml-migrate-parsetree
+[submodule "libraries/ocaml-re"]
+	path = libraries/ocaml-re
+	url = git://github.com/ocaml/ocaml-re
+[submodule "libraries/octavius"]
+	path = libraries/octavius
+	url = git://github.com/ocaml-doc/octavius
+[submodule "libraries/parsexp"]
+	path = libraries/parsexp
+	url = git://github.com/janestreet/parsexp
+[submodule "libraries/ppx_assert"]
+	path = libraries/ppx_assert
+	url = git://github.com/janestreet/ppx_assert
+[submodule "libraries/ppx_base"]
+	path = libraries/ppx_base
+	url = git://github.com/janestreet/ppx_base
+[submodule "libraries/ppx_bench"]
+	path = libraries/ppx_bench
+	url = git://github.com/janestreet/ppx_bench
+[submodule "libraries/ppx_bin_prot"]
+	path = libraries/ppx_bin_prot
+	url = git://github.com/janestreet/ppx_bin_prot
+[submodule "libraries/ppx_compare"]
+	path = libraries/ppx_compare
+	url = git://github.com/janestreet/ppx_compare
+[submodule "libraries/ppx_custom_printf"]
+	path = libraries/ppx_custom_printf
+	url = git://github.com/janestreet/ppx_custom_printf
+[submodule "libraries/ppx_derivers"]
+	path = libraries/ppx_derivers
+	url = git://github.com/ocaml-ppx/ppx_derivers.git
+[submodule "libraries/ppx_enumerate"]
+	path = libraries/ppx_enumerate
+	url = git://github.com/janestreet/ppx_enumerate
+[submodule "libraries/ppx_expect"]
+	path = libraries/ppx_expect
+	url = git://github.com/janestreet/ppx_expect
+[submodule "libraries/ppx_fail"]
+	path = libraries/ppx_fail
+	url = git://github.com/janestreet/ppx_fail
+[submodule "libraries/ppx_fields_conv"]
+	path = libraries/ppx_fields_conv
+	url = git://github.com/janestreet/ppx_fields_conv
+[submodule "libraries/ppx_hash"]
+	path = libraries/ppx_hash
+	url = git://github.com/janestreet/ppx_hash
+[submodule "libraries/ppx_here"]
+	path = libraries/ppx_here
+	url = git://github.com/janestreet/ppx_here
+[submodule "libraries/ppx_inline_test"]
+	path = libraries/ppx_inline_test
+	url = git://github.com/janestreet/ppx_inline_test
+[submodule "libraries/ppx_jane"]
+	path = libraries/ppx_jane
+	url = git://github.com/janestreet/ppx_jane
+[submodule "libraries/ppx_js_style"]
+	path = libraries/ppx_js_style
+	url = git://github.com/janestreet/ppx_js_style
+[submodule "libraries/ppx_let"]
+	path = libraries/ppx_let
+	url = git://github.com/janestreet/ppx_let
+[submodule "libraries/ppx_optcomp"]
+	path = libraries/ppx_optcomp
+	url = git://github.com/janestreet/ppx_optcomp
+[submodule "libraries/ppx_optional"]
+	path = libraries/ppx_optional
+	url = git://github.com/janestreet/ppx_optional
+[submodule "libraries/ppx_pipebang"]
+	path = libraries/ppx_pipebang
+	url = git://github.com/janestreet/ppx_pipebang
+[submodule "libraries/ppx_sexp_conv"]
+	path = libraries/ppx_sexp_conv
+	url = git://github.com/janestreet/ppx_sexp_conv
+[submodule "libraries/ppx_sexp_message"]
+	path = libraries/ppx_sexp_message
+	url = git://github.com/janestreet/ppx_sexp_message
+[submodule "libraries/ppx_sexp_value"]
+	path = libraries/ppx_sexp_value
+	url = git://github.com/janestreet/ppx_sexp_value
+[submodule "libraries/ppx_typerep_conv"]
+	path = libraries/ppx_typerep_conv
+	url = git://github.com/janestreet/ppx_typerep_conv
+[submodule "libraries/ppx_variants_conv"]
+	path = libraries/ppx_variants_conv
+	url = git://github.com/janestreet/ppx_variants_conv
+[submodule "libraries/ppxlib"]
+	path = libraries/ppxlib
+	url = git://github.com/ocaml-ppx/ppxlib
+[submodule "libraries/sexplib"]
+	path = libraries/sexplib
+	url = git://github.com/janestreet/sexplib
+[submodule "libraries/sexplib0"]
+	path = libraries/sexplib0
+	url = git://github.com/janestreet/sexplib0
+[submodule "libraries/spawn"]
+	path = libraries/spawn
+	url = git://github.com/janestreet/spawn
+[submodule "libraries/splittable_random"]
+	path = libraries/splittable_random
+	url = git://github.com/janestreet/splittable_random
+[submodule "libraries/stdio"]
+	path = libraries/stdio
+	url = git://github.com/janestreet/stdio
+[submodule "libraries/typerep"]
+	path = libraries/typerep
+	url = git://github.com/janestreet/typerep
+[submodule "libraries/tyxml"]
+	path = libraries/tyxml
+	url = https://github.com/ocsigen/tyxml.git
+[submodule "libraries/variantslib"]
+	path = libraries/variantslib
+	url = git://github.com/janestreet/variantslib
